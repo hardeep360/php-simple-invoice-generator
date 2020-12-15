@@ -1,4 +1,11 @@
 # Simple PHP Invoice Generator
+
+[Demo](https://invoicegenerator.360plustechnologies.com/ "Demo Site")
+
+**UserName: abc**
+
+**Password: 123456**
+
 ## Features
 ### Signup/Login/Forgot Password
 ### Add Your Company Info
