@@ -1,0 +1,56 @@
+/*CSS Sabrosus style pagination*/
+div.pagination {
+	padding:3px;
+	margin:3px;
+	text-align:right;
+	font-family: "trebuchet MS";
+	font-size: 11px;
+}
+
+div.pagination a {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #9aafe5;
+	font-family: "trebuchet MS";
+	text-decoration: none; 
+	color: #2e6ab1;
+	font-size: 11px;
+}
+div.pagination a:hover, div.pagination a:active {
+	border: 1px solid #2b66a5;
+	color: #000;
+	background-color: #77a6b9;
+	font-family: "trebuchet MS";
+	font-size: 11px;
+}
+div.pagination span.current {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid navy;
+	font-weight: bold;
+	background-color: #2e6ab1;
+	color: #FFF;
+	font-family: "trebuchet MS";
+	font-size: 11px;
+}
+div.pagination span.disabled {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #929292;
+	color: #929292;
+	font-family: "trebuchet MS";
+	font-size: 11px;
+}
+	#search{
+	padding: 3px;
+	border: 1px solid #999;
+	font-family: "trebuchet MS";
+	font-size: 11px;
+	background-color: #E8E8E8;
+	color: #333333;
+}
+	#se { padding: 5px; width:150px; border:1px solid #999; font-family: verdana arial, sans-serif; font-size: 12px;}
+	#se { list-style-type: none; font-family: verdana arial, sans-serif; font-size: 12px;  margin: 0px 0 0 0; background-color:#fff; width:200px;}
+	#seList { margin: 0px 0px 5px 0px; cursor:default; color: #1EA3B2; padding:1px;}
+	#seList:hover { background: #ffc; }
+	#seList.selected { background: #1EA3B2; color:#FFFFFF}

@@ -1,0 +1,26 @@
+.block-100-percent {
+    display: block;
+    width: 100%;
+}
+
+.pad-bottom-20 { padding-bottom: 20px; }
+
+div.pagination {
+    float: right;
+}
+
+div.pagination span.disabled, div.pagination span.current, div.pagination a
+{
+    padding: 3px 8px 3px 8px;
+    margin-right: 8px;
+    font-size: 15px;
+}
+
+div.pagination a:hover, div.pagination a:active {
+    font-size: 15px;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active
+{
+    color: #dc3545;
+}
